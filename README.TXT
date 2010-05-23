@@ -1,18 +1,18 @@
-# HBaseXplorer
+h1. HBaseXplorer
 
 HBaseXplorer is java desktop application for managing and exploring HBase database.
 
-## Licnese
+h2. Licnese
 
 MIT License (see LICENSE)
 
-## Install
+h2. Install
 
 - Get current release	
 - Unpack to any folder
 - Execute jar "java -jar bin/HBaseXPlorer.jar" (or if system supprots - double click jar file)
 
-## Features
+h2. Features
 
 * Multiple HBase connections
 * Single row preview
@@ -20,6 +20,6 @@ MIT License (see LICENSE)
 * Create,Read,Update,Delete of columns (Only String represented data)
 * Filter rows 
 
-## Build
+h2. Build
 
 Use Netbeans 6.8 to build project
