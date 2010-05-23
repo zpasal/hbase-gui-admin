@@ -4,7 +4,7 @@ HBaseXplorer is java desktop application for managing and exploring HBase databa
 
 h2. Licnese
 
-MIT License (see LICENSE)
+MIT License (see "LICENSE":http://github.com/zaharije/HBaseXplorer/blob/master/LICENSE)
 
 h2. Install
 
