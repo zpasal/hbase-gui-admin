@@ -8,9 +8,9 @@ MIT License (see "LICENSE":http://github.com/zaharije/HBaseXplorer/blob/master/L
 
 h2. Install
 
-- Get current release	
+- Get "current release":http://github.com/zaharije/HBaseXplorer/downloads
 - Unpack to any folder
-- Execute jar "java -jar bin/HBaseXPlorer.jar" (or if system supprots - double click jar file)
+- Execute jar "java -jar bin/HBaseXPlorer.jar" (or if system supports - double click jar file)
 
 h2. Features
 
