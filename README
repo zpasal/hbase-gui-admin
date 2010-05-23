@@ -1,8 +1,8 @@
-h1. HBaseXplorer
+# HBaseXplorer
 
 HBaseXplorer is java desktop application for managing and exploring HBase database.
 
-h2. Licnese
+## Licnese
 
 MIT License (see LICENSE)
 
